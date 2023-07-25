@@ -1,0 +1,13 @@
+os
+numpy
+pandas
+cv2
+imutils
+matplotlib
+notebook
+tensorflow-addons
+tensorflow-model-optimization
+tensorflow==2.5
+math
+scikit-learn
+keras
